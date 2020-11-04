@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    color: black;
+}
+
+#main {
+    margin: 10px;
+    border-radius: 10px;
+    background-color: gainsboro;
+}
+
+#title {
+    font-size: 50px;
+}
+
+#main-p {
+    margin-top: -30px;
+}
+
+#img-div {
+    width: 90%;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    margin: 10px 0 0 0;
+}
+
+ul {
+    list-style: disc;
+    max-width: 750px;
+    /* margin(top right bottom left) */
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
+li {
+    margin: 16px 0;
+    display: list-item;
+}
+
+blockquote {
+    max-width: 750px;
+    margin: auto;
+    text-align: left;
+    font-style: italic;
+}
+
+#link {
+    font-size: 24px;
+}
